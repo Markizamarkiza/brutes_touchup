@@ -1,0 +1,10 @@
+{
+    "baseFolder":"C:\\Users\\johny\\repos\\Project\\brutes_touchup",
+    "name":"brutes_touchup",
+    "sourceSetToUse":"gameData",
+    "baseContent":{
+        "baseFolder":"C:\\Users\\johny\\repos\\Source\\andors-trail\\AndorsTrail",
+        "type":"source"
+    },
+    "open":true
+}

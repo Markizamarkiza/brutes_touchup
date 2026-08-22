@@ -1,0 +1,17 @@
+[
+    {
+        "id":"brute_fisherman",
+        "name":"Bidro",
+        "iconID":"monsters_phoenix01:3",
+        "monsterClass":"humanoid",
+        "spawnGroup":"brute_fisherman",
+        "phraseID":"brute_fisherman"
+    },
+    {
+        "id":"brute_creator",
+        "name":"Os",
+        "iconID":"monsters_ld1:113",
+        "spawnGroup":"brute_creator",
+        "phraseID":"brute_creator"
+    }
+]
