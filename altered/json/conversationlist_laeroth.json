@@ -332,9 +332,9 @@
             }
         ]
     },
-    {
+	{
         "id":"brute_creator_extra",
-        "message":"Yes, many colleagues. The ignorant people in charge have no passion for advancing the fields of knowledge.",
+        "message":"Yes, many colleagues. The ignorant people in charge have no tolerance towards those with a passion for knowledge.",
         "replies":[
             {
                 "text":"N",
@@ -423,6 +423,16 @@
             {
                 "text":"Sure, I want to stay alive after all.",
                 "nextPhraseID":"X"
+            }
+        ]
+    },
+    {
+        "id":"Remgard_jetty_sign_2",
+        "message":"You can clearly see the neighboring group of islands and the old buildings on them.",
+        "replies":[
+            {
+                "text":"That ruin over there looks like a manor. A manor on Lake Laeroth... Laeroth manor?",
+                "nextPhraseID":"Remgard_jetty_sign_3"
             }
         ]
     }
